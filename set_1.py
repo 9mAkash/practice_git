@@ -1,2 +1,1 @@
-print ("This is my second git hub version")
-print ("Hi Akash")
+print("New branch is made in cloudclone")
